@@ -1,0 +1,1 @@
+# This folder contains a Python script file used for automating the EDA flow.
